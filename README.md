@@ -1,4 +1,4 @@
-# luigi-date
+# luigidate
 
 Una utilidad para manejar fechas en formato timestamp y long time.
 
@@ -6,5 +6,5 @@ Una utilidad para manejar fechas en formato timestamp y long time.
 
 ```
 # bash
-npm install luigi-date
+npm install luigidate
 ```
